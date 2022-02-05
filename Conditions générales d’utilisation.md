@@ -1,10 +1,13 @@
-Terms and conditions
-Glossary of terms
-These terms and conditions (“Agreement”) set forth the general terms and
-conditions of your use of the “GainKen” mobile application (“Mobile Application” or
-“Service”) and any of its related products and services (collectively, “Services”).
+# Terms and conditions
+
+
+## Glossary of terms
+
+These terms and conditions (“**Agreement**”) set forth the general terms and
+conditions of your use of the “GainKen” mobile application (“**Mobile Application**” or
+“**Service**”) and any of its related products and services (collectively, “**Services**”).
 This Agreement is legally binding between you (“User”, “you” or “your”) and
-GainKen Ltd (“GainKen Ltd”, “we”, “us” or “our”). If you are entering into this
+GainKen Ltd (“**GainKen Ltd**”, “**we**”, “**us**” or “**our**”). If you are entering into this
 agreement on behalf of a business or other legal entity, you represent that you
 have the authority to bind such entity to this agreement, in which case the terms
 “User”, “you” or “your” shall refer to such entity. If you do not have such authority,
@@ -15,7 +18,10 @@ you have read, understood, and agree to be bound by the terms of this Agreement.
 You acknowledge that this Agreement is a contract between you and GainKen Ltd,
 even though it is electronic and is not physically signed by you, and it governs your
 use of the Mobile Application and Services.
-Accounts and membership
+
+
+## Accounts and membership
+
 You must be at least 13 years of age to use the Mobile Application and Services.
 By using the Mobile Application and Services and by agreeing to this Agreement
 you warrant and represent that you are at least 13 years of age. If you create an
@@ -33,8 +39,11 @@ provision of this Agreement or that your conduct or content would tend to damage
 our reputation and goodwill. If we delete your account for the foregoing reasons,
 you may not re-register for our Services. We may block your email address and
 Internet protocol address to prevent further registration.
-User content
-We do not own any data, information or material (collectively, “Content”) that you
+
+
+# User content
+
+We do not own any data, information or material (collectively, “**Content**”) that you
 submit in the Mobile Application in the course of using the Service. You shall have
 sole responsibility for the accuracy, quality, integrity, legality, reliability,
 appropriateness, and intellectual property ownership or right to use of all
@@ -49,12 +58,18 @@ opinion, violates any of our policies or is in any way harmful or objectionable.
 also grant us the license to use, reproduce, adapt, modify, publish or distribute the
 Content created by you or stored in your user account for commercial, marketing
 or any similar purpose.
-Backups
+
+
+# Backups
+
 We perform regular backups of the Content and will do our best to ensure
 completeness and accuracy of these backups. In the event of the hardware failure
 or data loss we will restore backups automatically to minimize the impact and
 downtime.
-Links to other resources
+
+
+# Links to other resources
+
 Although the Mobile Application and Services may link to other resources (such as
 websites, mobile applications, etc.), we are not, directly or indirectly, implying any
 approval, association, sponsorship, endorsement, or affiliation with any linked
@@ -67,7 +82,10 @@ any responsibility or liability for the actions, products, services, and content
 other third parties. You should carefully review the legal statements and other
 conditions of use of any resource which you access through a link in the Mobile
 Application. Your linking to any other off-site resources is at your own risk.
-Prohibited uses
+
+
+# Prohibited uses
+
 In addition to other terms as set forth in the Agreement, you are prohibited from
 using the Mobile Application and Services or Content: (a) for any unlawful purpose;
 (b) to solicit others to perform or participate in any unlawful acts; (c) to violate any
@@ -84,8 +102,11 @@ scrape; (i) for any obscene or immoral purpose; or (j) to interfere with or circ
 the security features of the Mobile Application and Services, third party products
 and services, or the Internet. We reserve the right to terminate your use of the
 Mobile Application and Services for violating any of the prohibited uses.
-Intellectual property rights
-“Intellectual Property Rights” means all present and future rights conferred by
+
+
+# Intellectual property rights
+
+“**Intellectual Property Rights**” means all present and future rights conferred by
 statute, common law or equity in or in relation to any copyright and related rights,
 trademarks, designs, patents, inventions, goodwill and the right to sue for passing
 off, rights to inventions, rights to use, and all other intellectual property rights, in
@@ -103,7 +124,10 @@ connection with the Mobile Application and Services may be the trademarks of
 other third parties. Your use of the Mobile Application and Services grants you no
 right or license to reproduce or otherwise use any of GainKen Ltd or third party
 trademarks.
-Disclaimer of warranty
+
+
+# Disclaimer of warranty
+
 You agree that such Service is provided on an “as is” and “as available” basis and
 that your use of the Mobile Application and Services is solely at your own risk. We
 expressly disclaim all warranties of any kind, whether express or implied, including
@@ -120,7 +144,10 @@ goods or services purchased or obtained through the Service or any transactions
 entered into through the Service unless stated otherwise. No advice or information,
 whether oral or written, obtained by you from us or through the Service shall create
 any warranty not expressly made herein.
-Limitation of liability
+
+
+# Limitation of liability
+
 To the fullest extent permitted by applicable law, in no event will GainKen Ltd, its
 affiliates, directors, officers, employees, agents, suppliers or licensors be liable to
 any person for any indirect, incidental, special, punitive, cover or consequential
@@ -137,7 +164,10 @@ amounts actually paid in cash by you to GainKen Ltd for the prior one month
 period prior to the first event or occurrence giving rise to such liability. The
 limitations and exclusions also apply if this remedy does not fully compensate you
 for any losses or fails of its essential purpose.
-Indemnification
+
+
+# Indemnification
+
 You agree to indemnify and hold GainKen Ltd and its affiliates, directors, officers,
 employees, agents, suppliers and licensors harmless from and against any
 liabilities, losses, damages or costs, including reasonable attorneys’ fees, incurred
@@ -145,7 +175,10 @@ in connection with or arising from any third party allegations, claims, actions,
 disputes, or demands asserted against any of them as a result of or relating to
 your Content, your use of the Mobile Application and Services or any willful
 misconduct on your part.
-Severability
+
+
+# Severability
+
 All rights and restrictions contained in this Agreement may be exercised and shall
 be applicable and binding only to the extent that they do not violate any applicable
 laws and are intended to be limited to the extent necessary so that they will not
@@ -155,7 +188,10 @@ by a court of competent jurisdiction, it is the intention of the parties that th
 remaining provisions or portions thereof shall constitute their agreement with
 respect to the subject matter hereof, and all such remaining provisions or portions
 thereof shall remain in full force and effect.
-Dispute resolution
+
+
+# Dispute resolution
+
 The formation, interpretation, and performance of this Agreement and any disputes
 arising out of it shall be governed by the substantive and procedural laws of United
 Kingdom without regard to its rules on conflicts or choice of law and, to the extent
@@ -165,28 +201,39 @@ Kingdom, and you hereby submit to the personal jurisdiction of such courts. You
 hereby waive any right to a jury trial in any proceeding arising out of or related to
 this Agreement. The United Nations Convention on Contracts for the International
 Sale of Goods does not apply to this Agreement.
-Changes and amendments
+
+
+# Changes and amendments
+
 We reserve the right to modify this Agreement or its terms related to the Mobile
 Application and Services at any time at our discretion. When we do, we will revise
 the updated date at the bottom of this page, post a notification in the Mobile
 Application, send you an email to notify you. We may also provide notice to you in
 other ways at our discretion, such as through the contact information you have
 provided.
+
 An updated version of this Agreement will be effective immediately upon the
 posting of the revised Agreement unless otherwise specified. Your continued use
 of the Mobile Application and Services after the effective date of the revised
 Agreement (or such other act specified at that time) will constitute your consent to
 those changes.
-Acceptance of these terms
+
+
+# Acceptance of these terms
+
 You acknowledge that you have read this Agreement and agree to all its terms and
 conditions. By accessing and using the Mobile Application and Services you agree
 to be bound by this Agreement. If you do not agree to abide by the terms of this
 Agreement, you are not authorized to access or use the Mobile Application and
 Services.
-Contacting us
+
+# Contacting us
+
 If you have any questions, concerns, or complaints regarding this Agreement, we
 encourage you to contact us using the details below:
-• Our contact form available at : https://gainken.com/contact.html
-• Our email : hello@gainken.com
-• Our mail : 3rd Floor Office, 207 Regent Street, London, England, W1B 3HH
-This document was last updated on the 5 of February, 2022
+
+• **Our contact form available at** : https://gainken.com/contact.html
+• **Our email** : hello@gainken.com
+• **Our mail** : 3rd Floor Office, 207 Regent Street, London, England, W1B 3HH
+
+>This document was last updated on the 5 of February, 2022
