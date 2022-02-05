@@ -1,3 +1,192 @@
-Conditions générales d’utilisation (Term and conditions) Website owner  -Gainken (nom de la company quand entité créée)-Lieu de base de l’appli sera probablement lieu du QG -Nom de domaine Information de contact (pour réception de questions concernant les conditions d’utilisation mais aussi en cas de plaintes - d’avis d’infraction = infringement notice)  -numéro tel-Email de gk-Formulaire spécifique via notre site web-Adresse (probablement en Angleterre)Est-ce qu’on prévoit un formulaire de commentaire (feedback form)?Prévoit un age minimum d’utilisation de l’application (On en avait parlé - 18 ans toujours? - c’est à moi des voir) Est-ce que l’utilisateur peut se créé”er un compte? (OUI) Est-ce que l’utilisateur peut acheter des biens ou des services via notre application? -physical goods (des biens physiques)-Digital goods (due type abonnement au service GK)-on  n’a  pas  encore  mis  en  place  la  possibilité  de  vendre  des  services  tel  que  des  places  de cinéma ou de concert ou d’événement esport ou encore des voyages ou autreLes   différents   types   de   produits   qu’on   sera   susceptible   de   vendre   ou   de   mettre   à disposition dans l’application -prix  de  gamers  -(gaming  prizes)  -  tel  que  des  chaises  de  gamers  ou  des  manettes  ou  des casques ou autres -Prix  de  sport  (traditional  sport  prizes)  -  tel  que  des  chaussures  de  foot  ou  des  gants  ou  des ballions etc...-Voir si on rajoute un certain type de produit`Purchase option On va “vendre” nos bien physiques et digitaux au travers d’un one-time purchase mais aussi d’un service d’abonnement-on peut laisser la possibilité de renouveler automatiquement l’abonnement ou pas (reste à voir) -J’ai déjà préparé une politique d’annulation d’abonnement)Exemples avec la question des abonnements -Abonnement  (est-ce  que  l’abonnement  se  renouvelle  automatiquement  //  est-ce  qu’on  aura une politique de suppression d’abonnement) For  example  :  You  can  terminate  your  subscription  and  delete  your  account  at  any  time  through your  account  management  page.  Such  termination  and  deletion  will  result  in  the  deactivation  or disablement of your account access to it, and the deletion of content you collected through use of the service. Terminations are confirmed immediately , and you will not be charged again for that subscription  unless  you  purchase  a  new  one.  If  you  terminate  a  subscription  in  the  middle  of  a 
-billing  cycle,  you  will  not  receive  a  refund  unless  you  are  terminating  these  Terms  for  any  of  the following reasons;a.We have materially breached these Terms and failed to cure that breach within 30 days after you have so notified us in writingb.A refund is required by law c.We, in our sole discretion, determine a refund is appropriate.For  clarity,  we  will  not  grant  a  refund  where  you  have  used  our  Services,  collected  responses, and/or downloaded your responses unless the termination is due to our material, uncured breach or a refund is required by lawOn  offre  aussi  avec  GK  un  mode  freemium,  mais  également  on  peut  offrir  un  mode  “free trial” par rapport à la possibilité d’abonnement. -Dans ce cas là on peut par exemple donner un free trial de 7 jours ou plus (A 7 days free trial that begins when users register for a new account. The free trail includes unlimited access to all documents available on our site)-On doit également prévoir ce qu’il se passera en cas de fin du free trial (you will automatically be billed our monthly subscription rate. If you do not want to be billed, you will need to cancel your subscription before your free trial ends)-On doit donner la possibilité d’annuler le free trial - en décrivant la procédure clairement (log in to your account and select “cancel Free trial” under the “account management” tab) Les méthodes de paiement -Il faut prévoir et indiquer toutes les méthodes de paiement possible pour accéder aux services Gk-Par exemple Carte de crédit, Paypal, Stripe, Virement etc...Par  rapport  aux  biens  physiques,  il  faut  prévoir  si  les  utilisateurs  seront  facturés  sur  la livraisons. Il faut également prévoir si on livre à l’international (OUI) -Dans cette catégorie, il faut aussi prévoir la ou les méthodes de livraison (par exemple livraison standard  par  la  poste,  livraison  prenant  5  à  7  jours  ouvrables  pour  arriver  à  destination  = Standard délier by post. Delivery takes 5 to 7 business days).-On peut mettre autant de méthode de livraison qu’on souhaiteConcernant le contrat de vente  -en  Europe  la  loi  (s’applique  notamment  pour  les  ventes  en  ligne    et  en  l’occurence  pour  les vente dans des application) - offre un droit automatic de 14 jours minimum pour une annulation de contrat de vente (cad qu'un client à le droit de se rétracter au bout de 14 jours, on n’a pas le droit en Europe de diminuer le délai de rétractation en-deçà de 14 jours) -Ici  il  faut  aussi  prévoir  la  méthode  d’annulation,  cad  comment  le  client  peut  nous  contacter pour annuler le contrat de vente -En général = Email, ou mai (adresse postale) On peut intégrer (et on va intégrer) une politique en matière de renvoie des marchandises  -en cas de produits défectueux-De  la  même  manière  que  pour  l’annulation  du  contrat  de  vente,  il  vaut  mieux  ici  respecter  un délai  raisonnable  (14  jours  étant  raisonnable)  -  même  si  pour  le  retour  des  biens  on  n’est  pas obligé (cf par exemple caleçons) d’avoir de politique et donc pas obligé d’avoir un délai-Prévoir le nombre de jours avant de ne plus pouvoir demander de remboursement ou effectuer un retour (le délai cours à compter de la réception de la livraison-On peut prévoir la nécessité d’une raison de retour (du genre produit défectueux, changement d’avis, mauvaise taille ou autres). -Il  faut  donc  qu’on  prévoit  si  certains  bien  ne  peuvent  pas  être  retourné  (si  on  vend  des  sous-vêtement GK = exemple typique) -Il faut aussi prévoir la méthode de renvoie -On n’a pas de magasin, donc ce sera très certainement par la poste (par courrier)
--Dans un tel cas, il faut aussi préciser la démarche à suivre pour renvoyer le bien (emballer le produit  en  attachant  le  bordereau  de  retour  inclus  dans  la  livraison.  Rendez-vous  dans  le bureau  de  poste  le  plus  proche  et  acquitter  vous  des  frais  de  port  nécessaire  etc.../  Pack your goods and attach the return label that was included in your package, go to your nearest post office and pay the necessary postageDans le cas où on nous apporterait des feedback pour l’application -il  faut  qu’on  précise  que  ces  feedback  ne  seront  suivie  d’aucune  rémunération  ni  crédit  (sans accorder de mérite) -Le  feedback  pourrait  être  sous  forme  de  photos  explicative  d’un  problème    ou  permettant  de fixer  un  problème  ou  améliorer  notre  contenu,  un  commentaire  public  permettant  d’améliorer nos fonctionnalités (dans tous les cas il vaut mieux assurer nos arrières et prévoir une parade contre ceux qui pourraient essayer de réclamer une compensation) On peut prévoir de faire des promos, des loteries et autres (promotion and sweepstakes)  - Voir si on compte faire ça dès le début ou si on attend un moment avant de mettre tout ça en placeSur la Contribution de tierces parties -Ici c’est dans le cas où ce que l’on vendrait ou les prix qu’on mettrait à disposition viendraient de partenaires (et donc de tiers)-Cette  section  peut  également  inclure  le  cas  dans  lequel  on  mettrait  en  place  un  système  de publicités ou de liens de renvoie vers des sites de nos partenaire ou de parties tierces (reste à débattre) Utilisation inappropriées (unacceptable use) -Section extrêmement importante -Harassment or abuse of other users//Harcèlement ou abus des autres utilisateurs-Violation of the rights o-f other users//Violation des droits des autres utilisateurs-Copyright infringement//violation de droits d’auteurs, violation de copyright (de GK ltd ou de nos partenaires) -Par exemple, les logos, audio, etc...-Hacking user accounts// Piratage des comptes-Fraudulent  acts  (like  embezzlement  =  détournement  de  fonds)  //ac  tes  frauduleux  (du  type d’un jeune de moins de 18 ans qui aurait falsifié son âge etc...)-Posting  of  material  that  may  be  deemed  inappropriate  or  offensive//  publication  de  contenue qui  pourrait  être  jugée  inapproprié  ou  offensant  (on  peut  laisser  cette  partie  à  notre  libre discrétion ou alors donner des précision sur ce que l’on entend par offensant et inapproprié) -Etc... on peut remplir cette section avec ce qu’on veutOn peut prévoir des sanctions pour l’utilisation inappropriée - certaines sanctions : -Suspension temporaire du compte sans remboursement si compte premium-Annulation de certains services GK -Suppression totale de compte Loi applicable et Règlement des différents (Governing Law and dispute resolution)  -il faudra bien sûr prévoir la loi qui s’appliquera (ce sera un peut technique ici car UK ou FR ??)-Pour les différents on peut avant tout prévoir le règlement amiable avec le service contentieux de GK -On  peut  également  prévoir  la  médiation  ou  l’arbitrage  ou  les  2  à  la  suite  =  d’abord  médiation ensuite arbitrage) -La médiation engage une 3e personne, le médiateur,   qui essaie de faciliter les négociation. Mais la décision finale ne lui revient pas et aucune des parties en litige n’est lié par la parole du médiateur -L’arbitrage engage aussi une 3e personne, arbitre NEUTRE, mais la décision finale lui revient et les parties en litige seront lié par cette décision.-Enfin, il faut prévoir qui paie les frais du litige (dans le cas de la médiation et/ou de l’arbitrage = la partie perdante ou les 2 parties en litige se partage les frais? = à débattre)
+Terms and conditions
+Glossary of terms
+These terms and conditions (“Agreement”) set forth the general terms and
+conditions of your use of the “GainKen” mobile application (“Mobile Application” or
+“Service”) and any of its related products and services (collectively, “Services”).
+This Agreement is legally binding between you (“User”, “you” or “your”) and
+GainKen Ltd (“GainKen Ltd”, “we”, “us” or “our”). If you are entering into this
+agreement on behalf of a business or other legal entity, you represent that you
+have the authority to bind such entity to this agreement, in which case the terms
+“User”, “you” or “your” shall refer to such entity. If you do not have such authority,
+or if you do not agree with the terms of this agreement, you must not accept this
+agreement and may not access and use the Mobile Application and Services. By
+accessing and using the Mobile Application and Services, you acknowledge that
+you have read, understood, and agree to be bound by the terms of this Agreement.
+You acknowledge that this Agreement is a contract between you and GainKen Ltd,
+even though it is electronic and is not physically signed by you, and it governs your
+use of the Mobile Application and Services.
+Accounts and membership
+You must be at least 13 years of age to use the Mobile Application and Services.
+By using the Mobile Application and Services and by agreeing to this Agreement
+you warrant and represent that you are at least 13 years of age. If you create an
+account in the Mobile Application, you are responsible for maintaining the security
+of your account and you are fully responsible for all activities that occur under the
+account and any other actions taken in connection with it. We may, but have no
+obligation to, monitor and review new accounts before you may sign in and start
+using the Services. Providing false contact information of any kind may result in
+the termination of your account. You must immediately notify us of any
+unauthorised uses of your account or any other breaches of security. We will not
+be liable for any acts or omissions by you, including any damages of any kind
+incurred as a result of such acts or omissions. We may suspend, disable, or delete
+your account (or any part thereof) if we determine that you have violated any
+provision of this Agreement or that your conduct or content would tend to damage
+our reputation and goodwill. If we delete your account for the foregoing reasons,
+you may not re-register for our Services. We may block your email address and
+Internet protocol address to prevent further registration.
+User content
+We do not own any data, information or material (collectively, “Content”) that you
+submit in the Mobile Application in the course of using the Service. You shall have
+sole responsibility for the accuracy, quality, integrity, legality, reliability,
+appropriateness, and intellectual property ownership or right to use of all
+submitted Content. We may, but have no obligation to, monitor and review the
+Content in the Mobile Application submitted or created using our Services by you.
+You grant us permission to access, copy, distribute, store, transmit, reformat,
+display and perform the Content of your user account solely as required for the
+purpose of providing the Services to you. Without limiting any of those
+representations or warranties, we have the right, though not the obligation, to, in
+our own sole discretion, refuse or remove any Content that, in our reasonable
+opinion, violates any of our policies or is in any way harmful or objectionable. You
+also grant us the license to use, reproduce, adapt, modify, publish or distribute the
+Content created by you or stored in your user account for commercial, marketing
+or any similar purpose.
+Backups
+We perform regular backups of the Content and will do our best to ensure
+completeness and accuracy of these backups. In the event of the hardware failure
+or data loss we will restore backups automatically to minimize the impact and
+downtime.
+Links to other resources
+Although the Mobile Application and Services may link to other resources (such as
+websites, mobile applications, etc.), we are not, directly or indirectly, implying any
+approval, association, sponsorship, endorsement, or affiliation with any linked
+resource, unless specifically stated herein. Some of the links in the Mobile
+Application may be “affiliate links”. This means if you click on the link and
+purchase an item, GainKen Ltd will receive an affiliate commission. We are not
+responsible for examining or evaluating, and we do not warrant the offerings of,
+any businesses or individuals or the content of their resources. We do not assume
+any responsibility or liability for the actions, products, services, and content of any
+other third parties. You should carefully review the legal statements and other
+conditions of use of any resource which you access through a link in the Mobile
+Application. Your linking to any other off-site resources is at your own risk.
+Prohibited uses
+In addition to other terms as set forth in the Agreement, you are prohibited from
+using the Mobile Application and Services or Content: (a) for any unlawful purpose;
+(b) to solicit others to perform or participate in any unlawful acts; (c) to violate any
+international, federal, provincial or state regulations, rules, laws, or local
+ordinances; (d) to infringe upon or violate our intellectual property rights or the
+intellectual property rights of others; (e) to harass, abuse, insult, harm, defame,
+slander, disparage, intimidate, or discriminate based on gender, sexual orientation,
+religion, ethnicity, race, age, national origin, or disability; (f) to submit false or
+misleading information; (g) to upload or transmit viruses or any other type of
+malicious code that will or may be used in any way that will affect the functionality
+or operation of the Mobile Application and Services, third party products and
+services, or the Internet; (h) to spam, phish, pharm, pretext, spider, crawl, or
+scrape; (i) for any obscene or immoral purpose; or (j) to interfere with or circumvent
+the security features of the Mobile Application and Services, third party products
+and services, or the Internet. We reserve the right to terminate your use of the
+Mobile Application and Services for violating any of the prohibited uses.
+Intellectual property rights
+“Intellectual Property Rights” means all present and future rights conferred by
+statute, common law or equity in or in relation to any copyright and related rights,
+trademarks, designs, patents, inventions, goodwill and the right to sue for passing
+off, rights to inventions, rights to use, and all other intellectual property rights, in
+each case whether registered or unregistered and including all applications and
+rights to apply for and be granted, rights to claim priority from, such rights and all
+similar or equivalent rights or forms of protection and any other results of
+intellectual activity which subsist or will subsist now or in the future in any part of
+the world. This Agreement does not transfer to you any intellectual property owned
+by GainKen Ltd or third parties, and all rights, titles, and interests in and to such
+property will remain (as between the parties) solely with GainKen Ltd. All
+trademarks, service marks, graphics and logos used in connection with the Mobile
+Application and Services, are trademarks or registered trademarks of GainKen Ltd
+or its licensors. Other trademarks, service marks, graphics and logos used in
+connection with the Mobile Application and Services may be the trademarks of
+other third parties. Your use of the Mobile Application and Services grants you no
+right or license to reproduce or otherwise use any of GainKen Ltd or third party
+trademarks.
+Disclaimer of warranty
+You agree that such Service is provided on an “as is” and “as available” basis and
+that your use of the Mobile Application and Services is solely at your own risk. We
+expressly disclaim all warranties of any kind, whether express or implied, including
+but not limited to the implied warranties of merchantability, fitness for a particular 
+purpose and non-infringement. We make no warranty that the Services will meet
+your requirements, or that the Service will be uninterrupted, timely, secure, or errorfree; nor do we make any warranty as to the results that may be obtained from the
+use of the Service or as to the accuracy or reliability of any information obtained
+through the Service or that defects in the Service will be corrected. You
+understand and agree that any material and/or data downloaded or otherwise
+obtained through the use of Service is done at your own discretion and risk and
+that you will be solely responsible for any damage or loss of data that results from
+the download of such material and/or data. We make no warranty regarding any
+goods or services purchased or obtained through the Service or any transactions
+entered into through the Service unless stated otherwise. No advice or information,
+whether oral or written, obtained by you from us or through the Service shall create
+any warranty not expressly made herein.
+Limitation of liability
+To the fullest extent permitted by applicable law, in no event will GainKen Ltd, its
+affiliates, directors, officers, employees, agents, suppliers or licensors be liable to
+any person for any indirect, incidental, special, punitive, cover or consequential
+damages (including, without limitation, damages for lost profits, revenue, sales,
+goodwill, use of content, impact on business, business interruption, loss of
+anticipated savings, loss of business opportunity) however caused, under any
+theory of liability, including, without limitation, contract, tort, warranty, breach of
+statutory duty, negligence or otherwise, even if the liable party has been advised
+as to the possibility of such damages or could have foreseen such damages. To
+the maximum extent permitted by applicable law, the aggregate liability of GainKen
+Ltd and its affiliates, officers, employees, agents, suppliers and licensors relating to
+the services will be limited to an amount no greater than one pound or any
+amounts actually paid in cash by you to GainKen Ltd for the prior one month
+period prior to the first event or occurrence giving rise to such liability. The
+limitations and exclusions also apply if this remedy does not fully compensate you
+for any losses or fails of its essential purpose.
+Indemnification
+You agree to indemnify and hold GainKen Ltd and its affiliates, directors, officers,
+employees, agents, suppliers and licensors harmless from and against any
+liabilities, losses, damages or costs, including reasonable attorneys’ fees, incurred
+in connection with or arising from any third party allegations, claims, actions,
+disputes, or demands asserted against any of them as a result of or relating to
+your Content, your use of the Mobile Application and Services or any willful
+misconduct on your part.
+Severability
+All rights and restrictions contained in this Agreement may be exercised and shall
+be applicable and binding only to the extent that they do not violate any applicable
+laws and are intended to be limited to the extent necessary so that they will not
+render this Agreement illegal, invalid or unenforceable. If any provision or portion of
+any provision of this Agreement shall be held to be illegal, invalid or unenforceable
+by a court of competent jurisdiction, it is the intention of the parties that the
+remaining provisions or portions thereof shall constitute their agreement with
+respect to the subject matter hereof, and all such remaining provisions or portions
+thereof shall remain in full force and effect.
+Dispute resolution
+The formation, interpretation, and performance of this Agreement and any disputes
+arising out of it shall be governed by the substantive and procedural laws of United
+Kingdom without regard to its rules on conflicts or choice of law and, to the extent
+applicable, the laws of United Kingdom. The exclusive jurisdiction and venue for
+actions related to the subject matter hereof shall be the courts located in United
+Kingdom, and you hereby submit to the personal jurisdiction of such courts. You
+hereby waive any right to a jury trial in any proceeding arising out of or related to
+this Agreement. The United Nations Convention on Contracts for the International
+Sale of Goods does not apply to this Agreement.
+Changes and amendments
+We reserve the right to modify this Agreement or its terms related to the Mobile
+Application and Services at any time at our discretion. When we do, we will revise
+the updated date at the bottom of this page, post a notification in the Mobile
+Application, send you an email to notify you. We may also provide notice to you in
+other ways at our discretion, such as through the contact information you have
+provided.
+An updated version of this Agreement will be effective immediately upon the
+posting of the revised Agreement unless otherwise specified. Your continued use
+of the Mobile Application and Services after the effective date of the revised
+Agreement (or such other act specified at that time) will constitute your consent to
+those changes.
+Acceptance of these terms
+You acknowledge that you have read this Agreement and agree to all its terms and
+conditions. By accessing and using the Mobile Application and Services you agree
+to be bound by this Agreement. If you do not agree to abide by the terms of this
+Agreement, you are not authorized to access or use the Mobile Application and
+Services.
+Contacting us
+If you have any questions, concerns, or complaints regarding this Agreement, we
+encourage you to contact us using the details below:
+• Our contact form available at : https://gainken.com/contact.html
+• Our email : hello@gainken.com
+• Our mail : 3rd Floor Office, 207 Regent Street, London, England, W1B 3HH
+This document was last updated on the 5 of February, 2022
