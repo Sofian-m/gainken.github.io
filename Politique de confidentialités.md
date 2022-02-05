@@ -1,6 +1,6 @@
 # Privacy Policy
 
- ## Privacy Notice
+## Privacy Notice
 
 > Last updated : 5th February 2022
 
